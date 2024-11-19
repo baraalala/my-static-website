@@ -1,0 +1,19 @@
+/* style.css */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff; /* Light blue background */
+  color: #333; /* Dark gray text color */
+}
+
+h1 {
+  color: #2a6ebb; /* Blue color for the heading */
+  text-align: center; /* Center-align the heading */
+}
+
+p {
+  font-size: 1.2em; /* Slightly larger font size for the paragraph */
+  color: #555; /* Medium gray text color */
+  margin: 20px; /* Margin around the paragraph */
+  text-align: justify; /* Justify the text */
+}
